@@ -5,7 +5,7 @@
         <title>Tareas Vinculo</title>
     </head>
         <body>
-            <h1 style="text-align: center;">Esta es mi biblioteca de Actividades Jhordy Sánchez</h1>
+            <h1 style="text-align: center;">Esta es mi biblioteca de Actividades Diaz Bahena</h1>
             <a href="paola1.html" title="Practica 1"> Práctica 1 </a>
             <br>
             <a href="PAOLA 2.html" title="Práctica 2"> Práctica 2 </a>
