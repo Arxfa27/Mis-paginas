@@ -1,27 +1,38 @@
-<title>Mis practicas HTML :3 </title>
-</head>
-<body>
-    <h1>Mis practicas HTML :3 </h1>
-    <ul>
-        <li><a href="" target="_blank">practica 2</a></li>
-        <li><a href="practica/paola1.html" target="_blank">practica 1</a></li>
-        <li><a href="practica/PAOLA 2.html" target="_blank">practica 2</a></li>
-         <li><a href="practica/Listas.html" target="_blank">practica 3</a></li>
-          <li><a href="practica/Practica 4.html" target="_blank">practica 3</a></li>
-        <li><a href="practica/practica 5.html" target="_blank">practica 5</a></li>
-        <li><a href="practica/PRACTICA 6.html" target="_blank">practica 6</a></li>
-        <li><a href="practica/conexion.php" target="_blank">practica 1 php</a></li>
-         <li><a href="practica/creacion bd.php" target="_blank">practica 7 php</a></li>
-         <li><a href="practica/practica 1.php" target="_blank">practica 1 php</a></li>
-            <li><a href="practica/ptactica2.php" target="_blank">practica 2 php</a></li>
-            <li><a href="practica/practica 3.php" target="_blank">practica 3 php</a></li>
-            <li><a href="practica/practica 4.php" target="_blank">practica 4 php</a></li>
-            <li><a href="practica/practica 5.php" target="_blank">practica 5 php</a></li>
-            <li><a href="practica/practica6.php" target="_blank">practica 6php</a></li>
-        
-        
-        
-        
-    </ul>
-</body>
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <title>Tareas Vinculo</title>
+    </head>
+        <body>
+            <h1 style="text-align: center;">Esta es mi biblioteca de Actividades Jhordy Sánchez</h1>
+            <a href="paola1.html" title="Practica 1"> Práctica 1 </a>
+            <br>
+            <a href="PAOLA2.html" title="Práctica 2"> Práctica 2 </a>
+            <br>
+            <a href="Listas.html" title="Práctica 3"> Práctica 3 </a>
+            <br>
+            <a href="Practica 4.html" title="Práctica 4"> Práctica 4 </a>
+            <br>
+            <a href="practica 5.html" title="Práctica 5"> Práctica 5 </a>
+             <br>
+            <a href="PRACTICA 6.html" title="Práctica 6"> Práctica 6 </a>
+            <br>
+
+            <p>Praácticas de PHP en mi nuevo link</p>
+            <br>
+             <a href="practica 1.php" title="Práctica 1"> Práctica 1 </a>
+            <br>
+            <a href="ptactica2.php" title="Práctica 2"> Práctica 2 </a>
+            <br>
+             <a href="practica 3.php" title="Práctica 3"> Práctica 3 </a>
+            <br>
+             <a href="practica 4.php" title="Práctica 4"> Práctica 4 </a>
+            <br>
+             <a href="practica 5.php" title="Práctica 5"> Práctica 5 </a>
+            <br>
+             <a href="practica6.php" title="Práctica 6"> Práctica 6 </a>
+            <br>
+             <a href="conexion.jpg" title="Práctica 7"> Práctica 7 </a>
+        </body>
 </html>
