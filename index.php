@@ -42,5 +42,9 @@
             <a href="9.png" title="Práctica 9"> Práctica 9 </a>
             <br>
             <a href="10.png" title="Práctica 10"> Práctica 10 </a>
+            <br>
+            <a href="PRACTICA 9.1" title="Práctica 11"> Práctica 11 </a>
+            <br>
+            <a href="PRACTICARAFA.html" title="Práctica 12"> Práctica 12</a>
         </body>
 </html>
